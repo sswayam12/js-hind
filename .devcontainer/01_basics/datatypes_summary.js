@@ -43,3 +43,14 @@ const bigNumber = 34556788986543n;
 
 // Null ka typeof object hota hai
 console.log(typeof null);
+
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack(Primitive) and heap(Non-Primitive) memory
+
+let myYoutube = "ehddsvsfxbfb";
+
+let anotherName = myYoutube;
+console.log(anotherName);
